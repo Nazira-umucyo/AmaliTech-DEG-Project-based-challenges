@@ -3,10 +3,10 @@
 A visual decision tree editor for building and testing chatbot conversation flows.
 
 ## Live Demo
-[Add your Vercel link here after deployment]
+https://amali-supportflow.netlify.app/
 
-## Design File
-[Add your Figma link here]
+## Design File [figma]
+https://www.figma.com/design/FESParDMvMuPEW1ePotcGz/Support-flow?node-id=9-18&t=EXzRkpjvbs0cQ5A9-1
 
 ## Features
 
